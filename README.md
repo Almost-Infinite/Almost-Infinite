@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://imgur.com/J0BBkvj.png"  alt="Almost Infinite" align="center" height="600" width="600" >
+<img src="https://i.imgur.com/o5FcDqN.png"  alt="Almost Infinite" align="center" height="600" width="600" >
 
  
 <br><br>
@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 
 <p aling="left">Knowledges</p>
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css3" width="40" height="40"/> 
+<img src="https://download.logo.wine/logo/Electron_(software_framework)/Electron_(software_framework)-Logo.wine.png" alt="electron" width="40" height="40"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png" alt="figma" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/512px-HTML5_logo_resized.svg.png" alt="html5" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" alt="javascript" width="40" height="40"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png" alt="mysql" width="40" height="40"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-3-1174937.png" alt="nodejs" width="40" height="40"/> 
+<img src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" alt="photoshop" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="sass" width="40" height="40"/></p>
 <br><br>
 
 [![Top Langs](https://github-readme-stats.almost-infinite.vercel.app/api/top-langs/?username=Almost-Infinite&theme=dark-and-light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
