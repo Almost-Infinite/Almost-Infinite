@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.facebook.com/Almost.Infinite" target="_blank"><img src="https://i.imgur.com/qosjk0z.png" title="Facebook" align="left" height="90" width="90" ></a>
-<a href="https://www.instagram.com/lua.0_0.m/" target="_blank"><img src="https://i.imgur.com/yVUjfBA.png" title="Instagram" align="left" height="90" width="90" ></a>
-<a href="https://twitter.com/luko100" target="_blank"><img src="https://imgur.com/mh9BMBM.png" title="Twitter" align="left" height="90" width="90" ></a>
+<a href="https://www.instagram.com/almost_infinite/" target="_blank"><img src="https://i.imgur.com/yVUjfBA.png" title="Instagram" align="left" height="90" width="90" ></a>
+<a href="https://twitter.com/_AlmostInfinite" target="_blank"><img src="https://imgur.com/mh9BMBM.png" title="Twitter" align="left" height="90" width="90" ></a>
 <a href="https://github.com/Almost-Infinite" target="_blank"><img src="https://i.imgur.com/rljGz7f.png" title="GitHub" align="left" height="90" width="90" ></a>
 </p> 
