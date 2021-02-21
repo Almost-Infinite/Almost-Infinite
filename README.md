@@ -25,19 +25,11 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p aling="left">Knowledges</p>
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css3" width="40" height="40"/> 
-<img src="https://download.logo.wine/logo/Electron_(software_framework)/Electron_(software_framework)-Logo.wine.png" alt="electron" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png" alt="figma" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/512px-HTML5_logo_resized.svg.png" alt="html5" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" alt="javascript" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png" alt="mysql" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-3-1174937.png" alt="nodejs" width="40" height="40"/> 
-<img src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" alt="photoshop" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="sass" width="40" height="40"/></p>
-<br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+
+
 
 [![Top Langs](https://github-readme-stats.almost-infinite.vercel.app/api/top-langs/?username=Almost-Infinite&theme=dark-and-light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.facebook.com/Almost.Infinite" target="_blank"><img src="https://i.imgur.com/qosjk0z.png" title="Facebook" align="left" height="90" width="90" ></a>
-<a href="https://www.instagram.com/lua.0_0.m/" target="_blank"><img src="https://imgur.com/yVUjfBA.png" title="Instagram" align="left" height="90" width="90" ></a>
+<a href="https://www.instagram.com/lua.0_0.m/" target="_blank"><img src="https://i.imgur.com/yVUjfBA.png" title="Instagram" align="left" height="90" width="90" ></a>
 <a href="https://twitter.com/luko100" target="_blank"><img src="https://imgur.com/mh9BMBM.png" title="Twitter" align="left" height="90" width="90" ></a>
-<a href="https://github.com/Almost-Infinite" target="_blank"><img src="https://imgur.com/TU327h6.png" title="GitHub" align="left" height="90" width="90" ></a>
+<a href="https://github.com/Almost-Infinite" target="_blank"><img src="https://i.imgur.com/rljGz7f.png" title="GitHub" align="left" height="90" width="90" ></a>
 </p> 
